@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../background.png</file>
+        <file>../../../Downloads/imgbin_weeze-airport-flight-mobile-app-android-application-package-png.png</file>
+        <file>../../../Downloads/telechargement.jfif</file>
+        <file>../../../Downloads/blanc.jpg</file>
+    </qresource>
+</RCC>
