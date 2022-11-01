@@ -93,9 +93,9 @@ QSqlQueryModel* Employe::afficher()
  QSqlQueryModel* model=new QSqlQueryModel();
 
      model->setQuery("SELECT* FROM employe ");
-model->setHeaderData(0, Qt::Horizontal, QObject::tr("Identifiant"));
-model->setHeaderData(1, Qt::Horizontal, QObject::tr("nom"));
-model->setHeaderData(2, Qt::Horizontal, QObject::tr("prenom"));
+//model->setHeaderData(0, Qt::Horizontal, QObject::tr("Identifiant"));
+//model->setHeaderData(1, Qt::Horizontal, QObject::tr("nom"));
+//model->setHeaderData(2, Qt::Horizontal, QObject::tr("prenom"));
 
  return model;
 
